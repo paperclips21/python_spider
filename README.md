@@ -1,2 +1,2 @@
 # python_spider
-python spider tests
+记录一下在学习python爬虫过程中做过的一些小练习
